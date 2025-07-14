@@ -1,4 +1,4 @@
-<<<<<<< HEAD
+
 # 🇮🇳 SchemeAI - AI-Powered Government Scheme Recommendation App
 
 <div align="center">
