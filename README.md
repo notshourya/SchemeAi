@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # 🇮🇳 SchemeAI - AI-Powered Government Scheme Recommendation App
 
 <div align="center">
@@ -43,8 +44,8 @@ Before you begin, ensure you have the following installed:
 
 1. **Clone the repository**
    ```bash
-   git clone https://github.com/yourusername/SchemeAI.git
-   cd SchemeAI
+   git clone https://github.com/notshourya/SchemeAi.git
+   cd SchemeAi
    ```
 
 2. **Install dependencies**
@@ -374,3 +375,13 @@ A few resources to get you started if this is your first Flutter project:
 For help getting started with Flutter development, view the
 [online documentation](https://docs.flutter.dev/), which offers tutorials,
 samples, guidance on mobile development, and a full API reference.
+
+---
+
+<div align="center">
+
+**Made with ❤️ for Indian Citizens**
+
+*Empowering citizens with AI-driven government scheme discovery*
+
+</div>
