@@ -1,0 +1,76 @@
+Date : 2025-07-15 00:20:35
+Directory : /Users/shouryathakur/scheme_a_i/lib
+Total : 27 files,  6040 codes, 195 comments, 671 blanks, all 6906 lines
+
+Languages
++----------+------------+------------+------------+------------+------------+
+| language | files      | code       | comment    | blank      | total      |
++----------+------------+------------+------------+------------+------------+
+| Dart     |         27 |      6,040 |        195 |        671 |      6,906 |
++----------+------------+------------+------------+------------+------------+
+
+Directories
++---------------------------------------------------------------------------------------+------------+------------+------------+------------+------------+
+| path                                                                                  | files      | code       | comment    | blank      | total      |
++---------------------------------------------------------------------------------------+------------+------------+------------+------------+------------+
+| .                                                                                     |         27 |      6,040 |        195 |        671 |      6,906 |
+| . (Files)                                                                             |          2 |        112 |         17 |         16 |        145 |
+| app                                                                                   |          9 |        905 |         39 |        126 |      1,070 |
+| app/data                                                                              |          4 |        779 |         38 |        104 |        921 |
+| app/data/models                                                                       |          2 |        307 |          3 |         25 |        335 |
+| app/data/services                                                                     |          2 |        472 |         35 |         79 |        586 |
+| app/modules                                                                           |          3 |         48 |          1 |         13 |         62 |
+| app/modules/home                                                                      |          3 |         48 |          1 |         13 |         62 |
+| app/modules/home/bindings                                                             |          1 |         10 |          0 |          3 |         13 |
+| app/modules/home/controllers                                                          |          1 |         17 |          1 |          6 |         24 |
+| app/modules/home/views                                                                |          1 |         21 |          0 |          4 |         25 |
+| app/routes                                                                            |          2 |         78 |          0 |          9 |         87 |
+| features                                                                              |          9 |      3,366 |         61 |        313 |      3,740 |
+| features/auth                                                                         |          2 |        531 |         19 |         78 |        628 |
+| features/form                                                                         |          1 |        551 |         12 |         69 |        632 |
+| features/history                                                                      |          1 |        323 |          6 |         29 |        358 |
+| features/home                                                                         |          1 |        512 |          7 |         27 |        546 |
+| features/profile                                                                      |          1 |        456 |          0 |         31 |        487 |
+| features/results                                                                      |          1 |        513 |          6 |         35 |        554 |
+| features/scheme_detail                                                                |          1 |        333 |          5 |         28 |        366 |
+| features/splash                                                                       |          1 |        147 |          6 |         16 |        169 |
+| shared                                                                                |          7 |      1,657 |         78 |        216 |      1,951 |
+| shared/constants                                                                      |          1 |        124 |         23 |         23 |        170 |
+| shared/theme                                                                          |          1 |        206 |         13 |         16 |        235 |
+| shared/utils                                                                          |          1 |        254 |         29 |         74 |        357 |
+| shared/widgets                                                                        |          4 |      1,073 |         13 |        103 |      1,189 |
++---------------------------------------------------------------------------------------+------------+------------+------------+------------+------------+
+
+Files
++---------------------------------------------------------------------------------------+----------+------------+------------+------------+------------+
+| filename                                                                              | language | code       | comment    | blank      | total      |
++---------------------------------------------------------------------------------------+----------+------------+------------+------------+------------+
+| /Users/shouryathakur/scheme_a_i/lib/app/data/models/scheme_recommendation.dart        | Dart     |        161 |          3 |         17 |        181 |
+| /Users/shouryathakur/scheme_a_i/lib/app/data/models/user_form_data.dart               | Dart     |        146 |          0 |          8 |        154 |
+| /Users/shouryathakur/scheme_a_i/lib/app/data/services/firebase_service.dart           | Dart     |        243 |         25 |         43 |        311 |
+| /Users/shouryathakur/scheme_a_i/lib/app/data/services/gemini_service.dart             | Dart     |        229 |         10 |         36 |        275 |
+| /Users/shouryathakur/scheme_a_i/lib/app/modules/home/bindings/home_binding.dart       | Dart     |         10 |          0 |          3 |         13 |
+| /Users/shouryathakur/scheme_a_i/lib/app/modules/home/controllers/home_controller.dart | Dart     |         17 |          1 |          6 |         24 |
+| /Users/shouryathakur/scheme_a_i/lib/app/modules/home/views/home_view.dart             | Dart     |         21 |          0 |          4 |         25 |
+| /Users/shouryathakur/scheme_a_i/lib/app/routes/app_pages.dart                         | Dart     |         53 |          0 |          6 |         59 |
+| /Users/shouryathakur/scheme_a_i/lib/app/routes/app_routes.dart                        | Dart     |         25 |          0 |          3 |         28 |
+| /Users/shouryathakur/scheme_a_i/lib/features/auth/login_screen.dart                   | Dart     |        228 |          8 |         34 |        270 |
+| /Users/shouryathakur/scheme_a_i/lib/features/auth/register_screen.dart                | Dart     |        303 |         11 |         44 |        358 |
+| /Users/shouryathakur/scheme_a_i/lib/features/form/form_screen.dart                    | Dart     |        551 |         12 |         69 |        632 |
+| /Users/shouryathakur/scheme_a_i/lib/features/history/history_screen.dart              | Dart     |        323 |          6 |         29 |        358 |
+| /Users/shouryathakur/scheme_a_i/lib/features/home/home_screen.dart                    | Dart     |        512 |          7 |         27 |        546 |
+| /Users/shouryathakur/scheme_a_i/lib/features/profile/profile_screen.dart              | Dart     |        456 |          0 |         31 |        487 |
+| /Users/shouryathakur/scheme_a_i/lib/features/results/results_screen.dart              | Dart     |        513 |          6 |         35 |        554 |
+| /Users/shouryathakur/scheme_a_i/lib/features/scheme_detail/scheme_detail_screen.dart  | Dart     |        333 |          5 |         28 |        366 |
+| /Users/shouryathakur/scheme_a_i/lib/features/splash/splash_screen.dart                | Dart     |        147 |          6 |         16 |        169 |
+| /Users/shouryathakur/scheme_a_i/lib/firebase_options.dart                             | Dart     |         70 |         12 |          7 |         89 |
+| /Users/shouryathakur/scheme_a_i/lib/main.dart                                         | Dart     |         42 |          5 |          9 |         56 |
+| /Users/shouryathakur/scheme_a_i/lib/shared/constants/app_constants.dart               | Dart     |        124 |         23 |         23 |        170 |
+| /Users/shouryathakur/scheme_a_i/lib/shared/theme/app_theme.dart                       | Dart     |        206 |         13 |         16 |        235 |
+| /Users/shouryathakur/scheme_a_i/lib/shared/utils/validators.dart                      | Dart     |        254 |         29 |         74 |        357 |
+| /Users/shouryathakur/scheme_a_i/lib/shared/widgets/custom_button.dart                 | Dart     |        137 |          1 |          9 |        147 |
+| /Users/shouryathakur/scheme_a_i/lib/shared/widgets/custom_dropdown.dart               | Dart     |        304 |          3 |         25 |        332 |
+| /Users/shouryathakur/scheme_a_i/lib/shared/widgets/custom_input_field.dart            | Dart     |        303 |          3 |         37 |        343 |
+| /Users/shouryathakur/scheme_a_i/lib/shared/widgets/loading_widget.dart                | Dart     |        329 |          6 |         32 |        367 |
+| Total                                                                                 |          |      6,040 |        195 |        671 |      6,906 |
++---------------------------------------------------------------------------------------+----------+------------+------------+------------+------------+
