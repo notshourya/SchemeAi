@@ -31,6 +31,11 @@ SchemeAI is an intelligent Flutter application that leverages Google's Gemini AI
 
 ## 🚀 Getting Started
 
+
+### 📽️ Demo Video
+
+[▶️ Watch Demo Video on Google Drive](https://drive.google.com/file/d/1QcpgmfWLSGfgCcqBozTMRRPLPnrDpa__/view?usp=share_link)
+
 ### Prerequisites
 
 Before you begin, ensure you have the following installed:
